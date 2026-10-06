@@ -86,7 +86,7 @@ During the lab, I practiced troubleshooting:
 
 Through this enterprise network lab, I gained hands-on experience configuring and troubleshooting OSPF, Inter-VLAN routing, Firewalls, and network troubleshooting.
 
-I still feel shaky on firewalls, inter-VLAN routing, and OSPF. I plan on practicing on my weak areas until they are exceptional. 
+I still feel shaky with firewalls, inter-VLAN routing, and OSPF. I plan on practicing on my weak areas until they are exceptional. 
 
 
 ## Files
