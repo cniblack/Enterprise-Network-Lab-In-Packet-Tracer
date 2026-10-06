@@ -8,17 +8,6 @@ networking.
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white)
 
-- VLANs
-- IPv4
-- DHCP
-- OSPF
-- HSRP
-- STP
-- Inter-VLAN Routing
-- Wireless LAN Controller (WLC)
-- Access Points
-- Firewalls
-- Network Servers
 
 ## Network Topology
 
