@@ -31,8 +31,10 @@ The goal of this project was to design and configure an enterprise
 network using Cisco Packet Tracer.
 
 The network was designed with multiple VLANs, dynamic routing, gateway
-redundancy, DHCP services, wireless networking, and network security
+redundancy, DMZ implementation, DHCP services, wireless networking, and network security
 components.
+
+The primary concepts I practiced were OSPF, inter-VLAN routing, DMZ implementation, firewall configuration, and server deployment.
 
 ## Network Configuration
 
@@ -47,6 +49,7 @@ and security.
 | VLAN 20 | LAN |
 | VLAN 30 | WLAN |
 | VLAN 40 | VoIP |
+| VLAN 90 | Inside Servers |
 | VLAN 199 | Disabled Ports |
 
 ### Routing
@@ -90,23 +93,14 @@ During the lab, I practiced troubleshooting:
 - Wireless connectivity
 - Device configuration errors
 
-## Skills Demonstrated
+## What I Learned
 
-- Network design
-- Cisco IOS configuration
-- Routing and switching
-- VLAN configuration
-- DHCP
-- OSPF
-- HSRP
-- STP
-- Wireless networking
-- Network troubleshooting
-- Enterprise network infrastructure
+Through this enterprise network lab, I gained hands-on experience configuring and troubleshooting OSPF, Inter-VLAN routing, Firewalls, and network troubleshooting.
+
+I still feel shaky on firewalls, inter-VLAN routing, and OSPF. I plan on practicing on my weak areas until they are exceptional. 
+
 
 ## Files
 
-`enterprise-network-lab.pkt` - Complete Cisco Packet Tracer project.
+`Project.pkt` - Complete Cisco Packet Tracer project.
 
-The `configs` folder contains selected device configurations used in the
-lab.
