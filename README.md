@@ -58,6 +58,9 @@ configuration information to client devices.
 - Configured EtherChannel to improve bandwidth and provide redundancy.
 - Configured access ports for end devices.
 
+### VoIP
+-Configured VoIP and IP phones to provide voice communication across the enterprise network.
+
 ### Wireless
 
 - Configured a Wireless LAN Controller (WLC).
